@@ -21,8 +21,9 @@ env/
 Thumbs.db
 desktop.ini
 
-# Output (generated results — keep in .gitignore, commit a sample if desired)
+# Output and Data (do not commit dataset/PII)
 output/
+resumes/
 
 # Distribution
 dist/
